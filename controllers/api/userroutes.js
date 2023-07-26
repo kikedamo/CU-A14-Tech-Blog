@@ -2,8 +2,10 @@ const router = require('express').Router();
 const {User} = require('../../models');
 
 router.post("/", async(req,res) => {
+    console.log(req.body);
     try{
         const UserData = await User.create(req.body);
+        console.log(UserData);
         req.session.save(() => {
             req.session.user_id = UserData.id;
             req.session.loggedIn = true;
@@ -15,6 +17,7 @@ router.post("/", async(req,res) => {
 });
 
 router.post("/login", async(req,res)=> {
+    console.log(req.body);
     try{
         const UserData = await User.findOne({
             where:{email: req.body.email}
