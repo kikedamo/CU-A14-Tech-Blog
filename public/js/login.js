@@ -11,8 +11,8 @@ const LoginFormHandler = async(event) =>{
         });
         if (res.ok){
             alert("logged In");
-            LoggedIn = true;
-            document.location.replace('/')
+            loggedIn = true;
+            document.location.replace('/dashboard')
         }else{
             alert ('Failed to Log In');
         }
@@ -31,7 +31,7 @@ const SignupFormHandler = async(event) =>{
             headers: {'Content-Type': 'application/json'},
         });
         if (res.ok){
-            document.location.replace('/')
+            document.location.replace('/dashboard')
         }else{
             alert ('Failed to Sign Up');
         }
