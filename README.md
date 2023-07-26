@@ -13,15 +13,15 @@ Tech Blog is a website that allows users to create an account(s), post on the bl
 
 ## How To Install
 In order to use it, you'll need...
-[Node.js](https://nodejs.org/en)
+- [Node.js](https://nodejs.org/en)
 
 You'll also to download the following packages...
-[Path](https://www.npmjs.com/package/path)
-[Express](https://www.npmjs.com/package/express)
-[Express-handlebars](https://www.npmjs.com/package/express-handlebars)
-[Express-Session](https://www.npmjs.com/package/express-session)
-[Sequelize](https://www.npmjs.com/package/sequelize)
-[Connect-Session-Sequelize](https://www.npmjs.com/package/connect-session-sequelize)
+- [Path](https://www.npmjs.com/package/path)
+- [Express](https://www.npmjs.com/package/express)
+- [Express-handlebars](https://www.npmjs.com/package/express-handlebars)
+- [Express-Session](https://www.npmjs.com/package/express-session)
+- [Sequelize](https://www.npmjs.com/package/sequelize)
+- [Connect-Session-Sequelize](https://www.npmjs.com/package/connect-session-sequelize)
 
 
 
