@@ -70,7 +70,8 @@ nav a:hover {
 .post {
     flex: 4;
     background-color: #fff;
-    padding: 50px;
+    padding: 20px;
+    padding-right: 0px;
     display: flex;
     flex-flow: row wrap;
     justify-content: center;

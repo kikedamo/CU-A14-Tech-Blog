@@ -27,6 +27,8 @@ const NewFormHandler = async(event) =>{
     event.preventDefault();
     const title = document.querySelector('#title').value.trim();
     const body = document.querySelector('#body').value.trim();
+    console.log(title);
+    console.log(body);
     if (title&&body){
         const res = await fetch ('/api/posts', {
             method: 'POST',
@@ -56,8 +58,8 @@ const DeleteBtnHandler = async(event)=>{
 };
 
 document
-    .querySelector(".New-Post-Form")
+    .querySelector(".new-post-form")
     .addEventListener("submit", NewFormHandler);
-document
-    .querySelector(".Delete-Post-Form")
-    .addEventListener("click", DeleteBtnHandler);
+// document
+//     .querySelector(".Delete-Post-Form")
+//     .addEventListener("click", DeleteBtnHandler);
