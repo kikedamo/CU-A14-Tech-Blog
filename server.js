@@ -39,6 +39,5 @@ app.post('/test/api/users/login', (req, res) => {
 console.log(req)
 })
 
-sequelize.sync({ force: false }).then(() => {
-app.listen(PORT, () => console.log(`Now listening on http://localhost:${PORT}/`));
+sequelize.sync({ force: true }).then(() => {app.listen(PORT, () => console.log(`Now listening on http://localhost:${PORT}/`));
 });
