@@ -5,6 +5,7 @@
 - How To Install
 - link of The Repository
 - link of The Deployed Application
+- Screenshot
 - Creator & License
 
 ## Description
@@ -30,6 +31,17 @@ You'll also to download the following packages...
 [The Link To My Repo Is Here](https://github.com/kikedamo/CU-A14-Tech-Blog)
 
 ## link of The Deployed Application
+
+
+## ScreenShot
+
+[1. Open The Page]("./Img/openPage.png)
+[2. Go To The Login/Signup Page]("./Img/LogIn-SignUp.png)
+[3. Insert Credential]("./Img/LoggedIn-SignedUp.png)
+[4. Welcome To The Dashboard]("./Img/Dashboard.png)
+[1. Create a Post]("./Img/CreatePost.png)
+[1. Display The Post]("./Img/DisplayPort.png)
+
 
 
 
