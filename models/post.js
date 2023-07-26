@@ -12,7 +12,7 @@ Post.init(
         id:{
             type:DataTypes.INTEGER,
             allowNull:false,
-            primaryKay:true,
+            primaryKey:true,
             autoIncrement:true,
         },
         title:{
@@ -44,4 +44,4 @@ Post.init(
     }
 );
 
-module.exports = User;
+module.exports = Post;

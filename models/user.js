@@ -13,7 +13,7 @@ User.init(
         id:{
             type:DataTypes.INTEGER,
             allowNull:false,
-            primaryKay:true,
+            primaryKey:true,
             autoIncrement:true,
         },
         username:{
