@@ -37,12 +37,12 @@ You'll also to download the following packages...
 
 ## ScreenShot
 
-- ![1. Open The Page]("./Img/openPage.png)
-- ![2. Go To The Login/Signup Page]("./Img/LogIn-SignUp.png)
-- ![3. Insert Credential]("./Img/LoggedIn-SignedUp.png)
-- ![4. Welcome To The Dashboard]("./Img/Dashboard.png)
-- ![5. Create a Post]("./Img/CreatePost.png)
-- ![6. Display The Post]("./Img/DisplayPort.png)
+- ![1. Open The Page](Img/openPage.png)
+- ![2. Go To The Login/Signup Page](Img/LogIn-SignUp.png)
+- ![3. Insert Credential](Img/LoggedIn-SignedUp.png)
+- ![4. Welcome To The Dashboard](Img/Dashboard.png)
+- ![5. Create a Post](Img/CreatePost.png)
+- ![6. Display The Post](Img/DisplayPort.png)
 
 ## Creator & License
 Creator: Davis-Cedrick Baseka
