@@ -32,6 +32,8 @@ You'll also to download the following packages...
 
 ## link of The Deployed Application
 
+[The Link to My Deployed URL On Heroku](https://cu-a14-tech-blog-410322ff8265.herokuapp.com/)
+
 
 ## ScreenShot
 
