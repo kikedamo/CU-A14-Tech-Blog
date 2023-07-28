@@ -41,7 +41,7 @@ You'll also to download the following packages...
 - [4. Welcome To The Dashboard]("./Img/Dashboard.png)
 - [5. Create a Post]("./Img/CreatePost.png)
 - [6. Display The Post]("./Img/DisplayPort.png)
-.
+
 
 
 
